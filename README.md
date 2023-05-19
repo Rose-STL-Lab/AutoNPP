@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://zzhou.info/LICENSE"><img src="https://camo.githubusercontent.com/87d0b0ec1c0a97dbf68ce4d3098de6912bca75aa006304dd0a55976e6673cbe1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f64656c67616e2f6c6f677572752e737667" alt="license"></a>
-    <img src="https://img.shields.io/badge/Python-3.8+-yellow" alt="python">
+    <img src="https://img.shields.io/badge/Python-3.10+-yellow" alt="python">
     <img src="https://img.shields.io/badge/Version-1.0.0-green" alt="version">
 </p>
 
